@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<LotteryGameConfigFiles>
+
+ <LotteryGameConfigRecord RegionName="Arizona" FileName="AZ.XML" />
+<LotteryGameConfigRecord RegionName="Arkansas" FileName="AR.XML" />
+
+<LotteryGameConfigRecord RegionName="California" FileName="CA.XML" />
+<LotteryGameConfigRecord RegionName="Colorado" FileName="CO.XML" />
+<LotteryGameConfigRecord RegionName="Washington,D.C" FileName="DC.XML" />
+<LotteryGameConfigRecord RegionName="Delaware" FileName="DE.XML" />
+<LotteryGameConfigRecord RegionName="Arizona" FileName="AZ.XML" />
+<LotteryGameConfigRecord RegionName="Florida" FileName="FL.XML" />
+<LotteryGameConfigRecord RegionName="Georgia" FileName="GA.XML" />
+<LotteryGameConfigRecord RegionName="Idaho" FileName="ID.XML" />
+
+<LotteryGameConfigRecord RegionName="Illinois" FileName="IL.XML" />
+
+<LotteryGameConfigRecord RegionName="Indiana" FileName="IN.XML" />
+<LotteryGameConfigRecord RegionName="Iowa" FileName="IA.XML" />
+
+<LotteryGameConfigRecord RegionName="Kansas" FileName="KS.XML" />
+
+<LotteryGameConfigRecord RegionName="Kentucky" FileName="KY.XML" />
+
+<LotteryGameConfigRecord RegionName="Louisiana" FileName="LA.XML" />
+
+<LotteryGameConfigRecord RegionName="Maine" FileName="ME.XML" />
+
+<LotteryGameConfigRecord RegionName="Maryland" FileName="MD.XML" />
+
+<LotteryGameConfigRecord RegionName="Massachusetts" FileName="MA.XML" />
+
+
+<LotteryGameConfigRecord RegionName="Michigan" FileName="MI.XML" />
+<LotteryGameConfigRecord RegionName="Minnesota" FileName="MN.XML" />
+
+<LotteryGameConfigRecord RegionName="Missouri" FileName="MO.XML" />
+<LotteryGameConfigRecord RegionName="Montana" FileName="MT.XML" />
+<LotteryGameConfigRecord RegionName="Nebraska" FileName="NE.XML" />
+<LotteryGameConfigRecord RegionName="New Hampshire" FileName="NH.XML" />
+<LotteryGameConfigRecord RegionName="New Jersey" FileName="NJ.XML" />
+<LotteryGameConfigRecord RegionName="New Mexico" FileName="NM.XML" />
+<LotteryGameConfigRecord RegionName="New York" FileName="NY.XML" />
+<LotteryGameConfigRecord RegionName="North Carolina" FileName="NC.XML" />
+<LotteryGameConfigRecord RegionName="North Dakota" FileName="ND.XML" />
+<LotteryGameConfigRecord RegionName="Ohio" FileName="OH.XML" />
+
+<LotteryGameConfigRecord RegionName="Oklahoma" FileName="OK.XML" />
+<LotteryGameConfigRecord RegionName="Oregon" FileName="OR.XML" />
+<LotteryGameConfigRecord RegionName="Pennsylvania" FileName="PA.XML" />
+<LotteryGameConfigRecord RegionName="Puerto Rico" FileName="PR.XML" />
+<LotteryGameConfigRecord RegionName="Rhode Island" FileName="NY.XML" />
+<LotteryGameConfigRecord RegionName="South Carolina" FileName="SC.XML" />
+<LotteryGameConfigRecord RegionName="South Dakota" FileName="SD.XML" />
+<LotteryGameConfigRecord RegionName="Tennessee" FileName="TN.XML" />
+<LotteryGameConfigRecord RegionName="Texas" FileName="TX.XML" />
+
+<LotteryGameConfigRecord RegionName="Vermont" FileName="VT.XML" />
+<LotteryGameConfigRecord RegionName="Virginia" FileName="VA.XML" />
+<LotteryGameConfigRecord RegionName="Washington" FileName="WA.XML" />
+<LotteryGameConfigRecord RegionName="West Virginia" FileName="WV.XML" />
+<LotteryGameConfigRecord RegionName="Wisconsin" FileName="WI.XML" />
+
+
+
+</LotteryGameConfigFiles>

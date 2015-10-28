@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Weekly Grand</GameName>
+    <LottoBallRegUB>32</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+</DocumentElement>

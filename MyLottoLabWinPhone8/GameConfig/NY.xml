@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Take 5</GameName>
+    <LottoBallRegUB>39</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+      <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Sweet Million</GameName>
+    <LottoBallRegUB>40</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>NYLotto</GameName>
+    <LottoBallRegUB>59</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Pick 10</GameName>
+    <LottoBallRegUB>80</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>10</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <MultiRegionLottoGameList>
+    <MultiRegionLottoGameRec GameName="Mega Millions" FileName="Multi_MegaMillions.XML" />
+    <MultiRegionLottoGameRec GameName="Powerball" FileName="Multi_Powerball.XML" />
+  </MultiRegionLottoGameList>
+</DocumentElement>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Super Kansas Cash</GameName>
+    <LottoBallRegUB>32</LottoBallRegUB>
+    <LottoBallSpecialUB>25</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>True</UseSpecialBall>
+  </LotteryGames>
+  <MultiRegionLottoGameList>
+    <MultiRegionLottoGameRec GameName="Hot Lotto" FileName="Multi_HotLotto.XML" />
+    <MultiRegionLottoGameRec GameName="Mega Millions" FileName="Multi_MegaMillions.XML" />
+    <MultiRegionLottoGameRec GameName="Powerball" FileName="Multi_Powerball.XML" />
+  </MultiRegionLottoGameList>
+</DocumentElement>

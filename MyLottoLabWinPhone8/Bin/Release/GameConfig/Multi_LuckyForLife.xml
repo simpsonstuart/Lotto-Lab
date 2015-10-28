@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+<LotteryGames>
+    <GameName>LuckyForLife</GameName>
+    <LottoBallRegUB>40</LottoBallRegUB>
+    <LottoBallSpecialUB>21</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>40,1,8,15,19,29,38,11,7,4,12,31,34,35,10,16,17,13,2,23,25,26,28,37,32,39,24,3,6,18,22,33,30,36,27,5,14,20,9,21</LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L>3,2,15,16,17,6,4,9,10,18,19,7,8,13,11,5,1,12,14,20,21</LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>true</UseSpecialBall>
+  </LotteryGames>
+</DocumentElement>

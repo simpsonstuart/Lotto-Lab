@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Decades of Dollars</GameName>
+    <LottoBallRegUB>47</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Cash Ball</GameName>
+    <LottoBallRegUB>33</LottoBallRegUB>
+    <LottoBallSpecialUB>31</LottoBallSpecialUB>
+    <LottoBallRegCount>4</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>true</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Kicker</GameName>
+    <LottoBallRegUB>9</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Pick 4</GameName>
+    <LottoBallRegUB>9</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>4</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <MultiRegionLottoGameList>
+    <MultiRegionLottoGameRec GameName="Mega Millions" FileName="Multi_MegaMillions.XML" />
+    <MultiRegionLottoGameRec GameName="Powerball" FileName="Multi_Powerball.XML" />
+  </MultiRegionLottoGameList>
+</DocumentElement>

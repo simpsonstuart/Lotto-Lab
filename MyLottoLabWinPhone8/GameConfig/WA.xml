@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+<LotteryGames>
+  <LotteryGames>
+    <GameName>Daily Keno</GameName>
+    <LottoBallRegUB>80</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>10</LottoBallRegCount>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+    <GameName>Hit 5</GameName>
+    <LottoBallRegUB>39</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>5,4,3,2,1,40,42</LottoBallRegOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Match 4</GameName>
+    <LottoBallRegUB>24</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>4</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>4,3,2,1,5</LottoBallRegOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Lotto</GameName>
+    <LottoBallRegUB>49</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <MultiRegionLottoGameList>
+    <MultiRegionLottoGameRec GameName="Mega Millions" FileName="Multi_MegaMillions.XML" />
+    <MultiRegionLottoGameRec GameName="Powerball" FileName="Multi_Powerball.XML" />
+  </MultiRegionLottoGameList>
+</DocumentElement>

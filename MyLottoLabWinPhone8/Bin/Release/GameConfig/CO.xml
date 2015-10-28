@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Lotto</GameName>
+    <LottoBallRegUB>42</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>8,52,2,25,37,40,42</LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L>4,5,613,14</LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Cash 5</GameName>
+    <LottoBallRegUB>32</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>  
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <MultiRegionLottoGameList>
+    <MultiRegionLottoGameRec GameName="Mega Millions" FileName="Multi_MegaMillions.XML" />
+    <MultiRegionLottoGameRec GameName="Powerball" FileName="Multi_Powerball.XML" />
+  </MultiRegionLottoGameList>
+</DocumentElement>

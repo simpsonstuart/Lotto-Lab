@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <DefaultConfig>
+    <Region>Idaho</Region>
+    <Game>Powerball</Game>
+    <PercentPopularLeast>40</PercentPopularLeast>
+    <PercentPopularMost>40</PercentPopularMost>
+    <CountThowout>500000</CountThowout>
+    <PercentThowoutBall>40</PercentThowoutBall>
+  </DefaultConfig>
+</DocumentElement>

@@ -1,0 +1,64 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MyLottoLabWinPhone8.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="About" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBlock x:Name="Version" HorizontalAlignment="Left" Margin="38,30,0,0" TextWrapping="Wrap" Text="Version:" VerticalAlignment="Top"/>
+            <TextBlock x:Name="Lversion" HorizontalAlignment="Left" Margin="158,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Foreground="#FF939393" Text="My Lotto Lab V 1.0.0.4 "/>
+            <TextBlock x:Name="RegionVer" HorizontalAlignment="Left" Margin="38,87,0,0" TextWrapping="Wrap" Text="Region:" VerticalAlignment="Top"/>
+            <TextBlock x:Name="Region_SPL" HorizontalAlignment="Left" Margin="158,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Foreground="#FF939393">
+            	<Run Text="English - United States"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <HyperlinkButton x:Name="Website" Content="www.fusionfjord.com/mlb&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" Margin="187,139,0,0" VerticalAlignment="Top" FontSize="16" BorderBrush="Black" NavigateUri="http://fusionfjord.com/mlb" TargetName="_blank"/>
+            <Image HorizontalAlignment="Left" Height="100" Margin="88,467,0,0" VerticalAlignment="Top" Width="263"/>
+            <TextBlock x:Name="RegionVer_Copy" HorizontalAlignment="Left" Margin="38,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+            	<Run Text="Support Site:"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <Image Height="170" Margin="0,356,0,0" VerticalAlignment="Top" Source="/Assets/bbb.png" Stretch="Fill" HorizontalAlignment="Center" Width="456" Opacity="110"/>
+            <TextBlock x:Name="RegionVer_Copy1" Margin="187,324,169,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Created By:"/>
+            <TextBlock x:Name="RegionVer_Copy2" HorizontalAlignment="Left" Margin="38,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Feedback:"/>
+            <TextBlock x:Name="composeMail" HorizontalAlignment="Left" Margin="158,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Foreground="White" Tap="composeMail_Tap" FontWeight="Bold">
+            	<Run Text="windowsphone@fusionfjord.com"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <TextBlock x:Name="RegionVer_Copy3" HorizontalAlignment="Left" Margin="38,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+            	<Run Text="Support PDF:"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
+            <HyperlinkButton x:Name="Website_Copy" Content="www.fusionfjord.com/mllb.pdf&#xA;&#xA;" HorizontalAlignment="Left" Margin="187,260,0,0" VerticalAlignment="Top" FontSize="16" BorderBrush="Black" NavigateUri="http://fusionfjord.com/mllb.pdf" TargetName="_blank"/>
+            <TextBlock HorizontalAlignment="Center" Margin="130,567,105,0" TextWrapping="Wrap" Text="Please play responsibly!" VerticalAlignment="Top" Height="36" Width="221"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Powerball</GameName>
+    <LottoBallRegUB>59</LottoBallRegUB>
+    <LottoBallSpecialUB>35</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>56,59,1,7,14,29,5,20,44,49,58,3,4,8,11,26,39,45,46,55,6,15,16,17,23,28,34,41,42,50,10,13,35,36,43,48,51,54,57,19,24,30,32,33,47,53,9,18,22,31,12,21,27,38,52,2,25,37,40</LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L>4,5,6.10,11,12,13,14,15,16,17,18</LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>true</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Mega Millions</GameName>
+    <LottoBallRegUB>59</LottoBallRegUB>
+    <LottoBallSpecialUB>35</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>8,52,2,25,37,40,42</LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L>4,5,613,14</LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>true</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Take 5</GameName>
+    <LottoBallRegUB>39</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+      <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+  <LotteryGames>
+    <GameName>Sweet Million</GameName>
+    <LottoBallRegUB>40</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+
+  <LotteryGames>
+    <GameName>NYLotto</GameName>
+    <LottoBallRegUB>59</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>6</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+
+<LotteryGames>
+    <GameName>Pick 10</GameName>
+    <LottoBallRegUB>80</LottoBallRegUB>
+    <LottoBallSpecialUB>0</LottoBallSpecialUB>
+    <LottoBallRegCount>10</LottoBallRegCount>
+    <LottoBallRegOrderingH2L></LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L></LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>false</UseSpecialBall>
+  </LotteryGames>
+
+
+</DocumentElement>

@@ -1,0 +1,15 @@
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\ApplicationIcon.png
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\Background.png
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\ShakeGesturesSample.dll
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\ShakeGesturesSample.pdb
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\AppManifest.xaml
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\ShakeGesturesSample.xap
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\ShakeGestures.dll
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\Bin\Debug\ShakeGestures.pdb
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\ShakeGesturesSample.csprojResolveAssemblyReference.cache
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\App.g.cs
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\MainPage.g.cs
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\ShakeGesturesSample.g.resources
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\ShakeGesturesSample.dll
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\ShakeGesturesSample.pdb
+C:\MyLottoLabWinPhone8\Shake_Gestures\ShakeGestures\ShakeGesturesSample\obj\Debug\XapCacheFile.xml

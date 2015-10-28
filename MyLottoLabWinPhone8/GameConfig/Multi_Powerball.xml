@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <LotteryGames>
+    <GameName>Powerball</GameName>
+    <LottoBallRegUB>59</LottoBallRegUB>
+    <LottoBallSpecialUB>35</LottoBallSpecialUB>
+    <LottoBallRegCount>5</LottoBallRegCount>
+    <LottoBallRegOrderingH2L>56,44,59,1,5,7,8,23,29,14,20,39,3,26,46,49,55,58,4,10,11,15,16,17,36,45,50,6,13,19,28,30,34,35,41,42,18,22,24,32,43,48,51,53,54,57,33,47,9,27,31,38,40,12,21,25,37,52,2</LottoBallRegOrderingH2L>
+    <LottoBallSpecialOrderingH2L>33,29,6,14,1,5,13,18,23,28,35,2,3,7,10,11,12,20,22,27,30,32,4,8,16,21,26,19,24,25,34,9,15,17,31</LottoBallSpecialOrderingH2L>
+    <UseSpecialBall>true</UseSpecialBall>
+  </LotteryGames>
+</DocumentElement>
